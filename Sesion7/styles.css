@@ -1,0 +1,25 @@
+/*
+main 
+{
+    display: flex;
+    justify-content: space-around;
+}
+*/
+
+.card
+{
+    border: 1px solid green;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.img-responsive
+{
+    width: 90%;
+    margin: 0 auto;
+}
