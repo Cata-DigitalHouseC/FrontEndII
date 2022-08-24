@@ -1,3 +1,4 @@
+- 3 pasos addEventListener
 - Seleccionar el elemento a observar
 - Seleccionar a que evento reaccionara
 - Ejecutar unas funcioes
